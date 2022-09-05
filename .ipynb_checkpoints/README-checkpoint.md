@@ -25,7 +25,8 @@ Help reduce the gun permit for the most permitted gun type in the US as at 1998 
 
 ### How? Project Objectives
 >-  Determine the gun type with the highest permit in US from 1998 to 2017
->-  Examine the trend of gun permit over time in the US  
+>-  Examine the trend of gun permit over time in the US 
+>-  Determine the average permit for each guntype over the year per sales mode 
 > - To determine the most privately sold gun type on the average in the US from 1998 to September 2017
 > - To determine the most common gun type in New York from 2007 to September 2017
 > - To determine which state in the US has the highest gun permit from 1998 to September 2017
